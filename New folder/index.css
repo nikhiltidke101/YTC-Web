@@ -1,0 +1,138 @@
+.div1{
+    height: 51px; width: 100%;
+    background-color: rgb(193, 224, 146);
+   text-align:center;
+   
+
+}
+.button1{
+    position: absolute;
+    right: 300px;
+    height: 30px;
+    top: 20px;
+    border:1px solid #023616; 
+    border-radius: 1px;
+    font-size:12px;font-family:Sans-seriff;   
+    padding: 7px 10px 10px 10px; 
+    background-color: rgb(179, 243, 179);
+    border-radius: 8px;
+
+   
+    
+}
+.button2{
+    position: absolute;
+    right: 230px;
+    height: 30px;
+    top: 20px;
+    border:1px solid #023616; 
+    border-radius: 1px;
+    font-size:12px;font-family:Sans-seriff;   
+    padding: 7px 10px 10px 10px; 
+    background-color: rgb(179, 243, 179);
+   border-radius: 8px;
+}
+
+.p1{
+   position: absolute;
+   font: 25px Arial, sans-serif;
+   bottom: 510px;
+   left: 15px;
+   top: 0PX;
+   text-shadow: 2px 2px 5px rgb(6, 112, 29);
+ 
+ }
+
+
+.div2{
+background-color: rgba(247, 244, 244, 0.979);
+height: 600px;
+
+}
+.image1{
+height: 470px;
+width:450px ;
+top: 98px;
+position: absolute;
+
+}
+.formbox{
+width: 380px;
+height: 480px;
+right: 300px;
+top: 10px;
+position: absolute;
+margin: 6% auto;
+background: rgba(247, 244, 244, 0.979);
+padding: 5px;
+overflow: hidden;
+
+}
+.fbtn1{
+    padding: 10px 30px;
+    cursor: pointer;
+    
+    border: 0;
+    outline: none;
+    position: relative;
+    background: linear-gradient(45deg, rgb(171, 221, 130), rgb(21, 131, 45));
+}
+.btn1{
+width: 220px;
+margin: 35px auto;
+box-shadow: 0 0 20px 9px rgba(191, 211, 138, 0.979);
+border-radius: 30px;
+}
+#btn2{
+    top: 0;
+    left: 0;
+    position: absolute;
+    
+    width: 110px;
+    height: 100px;
+   
+    border-radius: 30px;
+    transition: .5s;
+}
+.inputgroup{
+    top: 180px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+}
+.input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin:5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+}
+.submit-btn{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: linear-gradient(to right, rgb(88, 184, 109) ,rgb(11, 92, 47));
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+}
+.span{
+    color: #777;
+    font-size: 12px;
+    bottom: 68px;
+    position: absolute;
+}
+#Login{
+    left: 50px;
+
+}
+#Signup{
+    left: 390px;
+}
+
